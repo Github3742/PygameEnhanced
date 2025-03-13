@@ -1,2 +1,0 @@
-# MANIFEST.in
-include remote_python_executor/templates/*
